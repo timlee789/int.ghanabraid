@@ -12,12 +12,12 @@ function Softjumbo( ) {
     <div className={cla.main}> 
      <Head>  
          <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-        <title>3X Ghana Braid Giveaway Event</title>
-        <meta name="description" content="3X Ghana Braid Giveaway Event" />
-        <link rel="image_src" href="https://bijouxhair.com/tim/landing2/3xghanaphoto6.jpg" />     
-        <meta property="og:title" content="3X Ghana Braid Giveaway Event" />    
-        <meta property="og:image" content="https://bijouxhair.com/tim/landing2/3xghanaphoto6.jpg"/>
-        <meta property="og:description" content="3X Ghana Braid Giveaway Event"/>
+        <title>Soft Jumbo Braid </title>
+        <meta name="description" content="Realistic Soft Jumbo Braid" />
+        <link rel="image_src" href="https://bijouxhair.com/tim/landing2/softjumbo2.jpg" />     
+        <meta property="og:title" content="Realistic Soft Jumbo Braid" />    
+        <meta property="og:image" content="https://bijouxhair.com/tim/landing2/softjumbo2.jpg"/>
+        <meta property="og:description" content="Realistic Soft Jumbo Braid"/>
         <meta property="og:site_name" content="Beauty Elements"/> 
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     </Head> 
