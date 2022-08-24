@@ -89,6 +89,12 @@
   border-radius: 15px;
   background-color: orange;
 }
+.album2 {
+
+  width: 600px;
+  margin-top: 10px; 
+ 
+}
 .box {
   background-color: rgb(229, 229, 229);
   margin: 10px;
@@ -421,6 +427,11 @@
     border: solid 1px red;
     border-radius: 15px;
     background-color: orange;
+  }
+  .album2 {
+    width: 98%;
+    margin-top: 5px; 
+    
   }
   .box {
     background-color: rgb(229, 229, 229);

@@ -82,17 +82,16 @@ function Ghanabraid( ) {
        </ul>
        </div>
        </center> */}
-     <div className={cla.phototitle}>Realistic 3X Ghana Braid</div>
-     <div className={cla.album}>
-       <div className={cla.box} > 
-       <iframe width="100%" height="315" src="https://www.youtube.com/embed/xN0WFhVQxV0" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
-       <div className={cla.videotitle}>3X Ghana Braid in Miami Beach</div>
+     {/* <div className={cla.phototitle}>3X Ghana Braid Special Event</div> */}
+     <div className={cla.album2}>
+       <div >
+       <Image src='https://bijouxhair.com/tim/landing2/cutenbeauty.jpg' alt='banner' width='800px' height='400px' className={cla.image}/>
        </div>
-       </div>
-       <div className={cla.album}>
-       <div className={cla.box} >
-       <Image src='https://bijouxhair.com/tim/landing2/3xghanaevent.jpg' alt='banner' width='800px' height='960px' className={cla.image}/>
-       <div className={cla.videotitle}>3X Ghana Braid 40 50 60 70</div>
+     </div>
+       <div className={cla.album2}>
+       <div >
+       <Image src='https://bijouxhair.com/tim/landing2/TrinidadEvent.jpg' alt='banner' width='800px' height='1229px' className={cla.image}/>
+       {/* <div className={cla.videotitle}>3X Ghana Braid 40 50 60 70</div> */}
        </div>
      </div>
     <div className={cla.album}>
@@ -137,6 +136,12 @@ function Ghanabraid( ) {
        <div className={cla.box} > 
        <iframe width="100%" height="300" src="https://www.youtube.com/embed/mnM5Noi_W7c?controls=0" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
        <div className={cla.videotitle}>3X Ghana Braid in Kingston Jamaica</div>
+       </div>
+       </div>
+       <div className={cla.album}>
+       <div className={cla.box} > 
+       <iframe width="100%" height="315" src="https://www.youtube.com/embed/xN0WFhVQxV0" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+       <div className={cla.videotitle}>3X Ghana Braid in Miami Beach</div>
        </div>
        </div>
      <div className={cla.album}>
