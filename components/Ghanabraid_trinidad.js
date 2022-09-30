@@ -94,6 +94,12 @@ function Ghanabraid( ) {
        {/* <div className={cla.videotitle}>3X Ghana Braid 40 50 60 70</div> */}
        </div>
      </div>
+     <div className={cla.album2}>
+       <div >
+       <Image src='https://bijouxhair.com/tim/landing2/stores.jpg' alt='banner' width='800px' height='350px' className={cla.image}/>
+       {/* <div className={cla.videotitle}>3X Ghana Braid 40 50 60 70</div> */}
+       </div>
+     </div>
     <div className={cla.album}>
        <div className={cla.box} >
        <Image src='https://bijouxhair.com/tim/landing2/3xghanaphoto6.jpg' alt='banner' width='800px' height='960px' className={cla.image}/>
@@ -144,7 +150,7 @@ function Ghanabraid( ) {
        <div className={cla.videotitle}>3X Ghana Braid in Miami Beach</div>
        </div>
        </div>
-     <div className={cla.album}>
+     {/* <div className={cla.album}>
        <div className={cla.box} > 
        <Image src='https://bijouxhair.com/tim/landing2/3xghanaphoto2.jpg' alt='banner' width='800px' height='960px' className={cla.image}/>
        <div className={cla.videotitle}> Try new style with 3X Ghana Braid  </div>
@@ -154,7 +160,7 @@ function Ghanabraid( ) {
        <div  > 
        <Image src='https://bijouxhair.com/tim/landing2/3xghanaphoto1.jpg' alt='banner' width='800px' height='900px' className={cla.image}/>
        </div>
-     </div>
+     </div> */}
        
        <Image src='https://bijouxhair.com/tim/landing2/3xghanaspec.jpg' alt='banner' width='600px' height='200px' className={cla.image}/>
        
