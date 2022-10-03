@@ -25,7 +25,7 @@ function Ghanabraid( ) {
        <Image src='https://bijouxhair.com/tim/landing2/cutenbeauty.jpg' alt='banner' width='800px' height='400px' className={cla.image}/>
        </div>
      </div>
-     <div className={cla.wrapper}><h1 className={cla.coming}>Free Giveaway in Trinidad</h1></div>
+     <div className={cla.wrapper}><h1 className={cla.coming}>Get 1 Free in Trinidad</h1></div>
        <div className={cla.album2}>
        <div >
        <Image src='https://bijouxhair.com/tim/landing2/TrinidadEvent.jpg' alt='banner' width='800px' height='1229px' className={cla.image}/>
