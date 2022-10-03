@@ -103,7 +103,7 @@ function xpression( ) {
      </div>
    
        
-       <Image src='https://bijouxhair.com/tim/landing2/3xghanaspec.jpg' alt='banner' width='600px' height='200px' className={cla.image}/>
+       <Image src='https://bijouxhair.com/tim/landing2/3xghanaspec.jpg' alt='banner' width='800px' height='206px' className={cla.image}/>
        
        
        <div className={cla.footer}>
