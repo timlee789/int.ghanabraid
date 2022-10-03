@@ -32,6 +32,13 @@ function xpression( ) {
        {/* <div className={cla.videotitle}>3X Ghana Braid 40 50 60 70</div> */}
        </div>
      </div>
+    
+       <div className={cla.album2}>
+       <div >
+       <Image src='https://bijouxhair.com/tim/landing2/4xxpression3.jpg' alt='banner' width='800px' height='960px' className={cla.image}/>
+       {/* <div className={cla.videotitle}>3X Ghana Braid 40 50 60 70</div> */}
+       </div>
+     </div>
      <div className={cla.album2}>
        <div >
        <Image src='https://bijouxhair.com/tim/landing2/4xxpression2.jpg' alt='banner' width='800px' height='960px' className={cla.image}/>
